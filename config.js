@@ -9,5 +9,5 @@
 //  (team ke saath share nahi hoga).
 // ============================================================
 window.APP_CONFIG = {
-  FIREBASE_DB_URL: ""
+  FIREBASE_DB_URL: "https://office-tracker-xxxx-default-rtdb.firebaseio.com"
 };
